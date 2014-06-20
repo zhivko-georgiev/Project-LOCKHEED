@@ -103,7 +103,7 @@ background:#99c;
 }
 ul {
     list-style-type: disc;
-    list-style:  url("images/clip.png");
+    list-style:  url("../images/clip.png");
     
 
 }
