@@ -1,0 +1,5 @@
+C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\bin\LockHEED.dll
+C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\bin\LockHEED.pdb
+C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\obj\Debug\LockHEED.csprojResolveAssemblyReference.cache
+C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\obj\Debug\LockHEED.dll
+C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\obj\Debug\LockHEED.pdb
