@@ -3,3 +3,7 @@ height:200pt;
 width:400pt;
 padding-left: 250pt;
 }
+#char {
+    display:inline-block;
+    padding-left:135pt;
+}
