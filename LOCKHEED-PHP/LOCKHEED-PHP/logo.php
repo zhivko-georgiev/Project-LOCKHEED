@@ -1,0 +1,1 @@
+<a href="index.php"><img src="images/logo-fin7.png" id="logo"/></a>
