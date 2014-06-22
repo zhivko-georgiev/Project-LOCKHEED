@@ -30,6 +30,7 @@ p[id="hero"]{
     padding-left:50pt;
 }
 
+
 div p {
     font-style:oblique;
     font-weight:bolder;
@@ -59,7 +60,13 @@ article {
    margin-top: 20pt;
    margin-left: 30pt;
   
-    
+}
+section[id="texts"] {
+    width:80%;
+    color: #0B75AF;
+    text-align:right;
+    font-family:'Monotype Corsiva';
+    font-size:15pt;
 }
 hr {
     width: 80%;

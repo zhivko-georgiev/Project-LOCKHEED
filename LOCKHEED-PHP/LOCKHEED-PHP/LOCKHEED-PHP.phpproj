@@ -16,12 +16,9 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="footer.php" />
     <Compile Include="index.php" />
     <Compile Include="layout.php" />
     <Compile Include="logo.php" />
-    <Compile Include="navigation.php" />
-    <Compile Include="test.php" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\" />
@@ -29,6 +26,8 @@
     <Folder Include="styles\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content.html" />
+    <Content Include="footer.html" />
     <Content Include="images\asd.PNG" />
     <Content Include="images\Big-Bang-Theory2.jpg" />
     <Content Include="images\clip.png" />
@@ -40,6 +39,7 @@
     <Content Include="images\photo3.png" />
     <Content Include="images\photo4.png" />
     <Content Include="images\photo5.png" />
+    <Content Include="navigation.html" />
     <Content Include="scripts\jquery.easing.1.3.js" />
     <Content Include="styles\styles.css" />
   </ItemGroup>
