@@ -3,3 +3,8 @@ C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\bin\LockHEED.pdb
 C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\obj\Debug\LockHEED.csprojResolveAssemblyReference.cache
 C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\obj\Debug\LockHEED.dll
 C:\Users\ganchev\Desktop\LockHEED\LockHEED\LockHEED\obj\Debug\LockHEED.pdb
+C:\team-work\trunk\LockHEED Solution\LockHEED\LockHEED\bin\LockHEED.dll
+C:\team-work\trunk\LockHEED Solution\LockHEED\LockHEED\bin\LockHEED.pdb
+C:\team-work\trunk\LockHEED Solution\LockHEED\LockHEED\obj\Debug\LockHEED.csprojResolveAssemblyReference.cache
+C:\team-work\trunk\LockHEED Solution\LockHEED\LockHEED\obj\Debug\LockHEED.dll
+C:\team-work\trunk\LockHEED Solution\LockHEED\LockHEED\obj\Debug\LockHEED.pdb

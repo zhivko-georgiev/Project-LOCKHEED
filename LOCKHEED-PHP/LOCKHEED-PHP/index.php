@@ -1,12 +1,18 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
-   
-    <meta charset="utf-8" />
+
+    <meta  http-equiv="Content-Type" charset="utf-8" />
     <link rel="stylesheet" href="styles/styles.css" type="text/css" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
     <?php include("layout.php") ?>
+
+  
+
+<?php header('Content-type: text/html; charset=utf-8');?>
+
+
 
     <title> <?php echo "$title" ?>  </title>
 </head>
