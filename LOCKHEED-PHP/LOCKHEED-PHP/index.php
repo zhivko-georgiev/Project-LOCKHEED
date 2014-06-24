@@ -19,15 +19,16 @@
 
    
         <nav>
-            <?php include("navigation.html")?>
+           
+                 <?php include("navigation.html")?>
        </nav>
     </header>
         <main class="row">
             
-            <section class="col-lg-5 col-lg-offset-1">
+            <section class="col-sm-5 col-lg-offset-1">
                 <article><img src="images/Big-Bang-Theory2.jpg" class="img-responsive" /></article>
                 </section>
-            <section class="col-lg-5 col-lg-offset-0">
+            <section class="col-sm-5 col-lg-offset-0">
                 <article>
                     <img src="images/Big-Bang-Theory2.jpg" class="img-responsive"/></article>
                 </section>
@@ -44,7 +45,6 @@
             <hr />
             <?php include("footer.html") ?>
             <hr />
-
         </footer>
     </div>
         <script type="text/javascript">

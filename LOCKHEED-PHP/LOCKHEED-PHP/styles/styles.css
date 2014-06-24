@@ -1,5 +1,5 @@
 ﻿html,
-body, section, div {
+body, section,article, div {
 	margin: 0;
 	padding: 0;
 }
@@ -25,10 +25,15 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
-
-
+section {
+    word-break: break-all; 
+    padding: 5px;   
+}
+p {
+    word-break: break-all;
+}
 hr {
-    width: 80%;
+    width: 90%;
     background-color:#000;
     display: block;
 -webkit-margin-before: 0.5em;
@@ -36,13 +41,15 @@ hr {
 -webkit-margin-start: auto;
 -webkit-margin-end: auto;
 border-style: inset;
-border-width: 1px;
+border-width: 2px;
 }
 
 
 #footer {
     margin-left: auto;
     margin-right: auto;
+    
+    padding: 10px;
 }
 
 #nav {

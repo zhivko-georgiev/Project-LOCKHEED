@@ -41,6 +41,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="footer.html" />
+    <Content Include="images\nak.png" />
+    <Content Include="images\transparent-nakov.png" />
+    <Content Include="nakov.php" />
     <Content Include="images\asd.PNG" />
     <Content Include="images\Big-Bang-Theory2.jpg" />
     <Content Include="images\clip.png" />
@@ -56,6 +59,7 @@
     <Content Include="js\bootstrap.min.js" />
     <Content Include="navigation.html" />
     <Content Include="scripts\jquery.easing.1.3.js" />
+    <Content Include="styles\heroes-styles.css" />
     <Content Include="styles\styles.css" />
   </ItemGroup>
 </Project>
