@@ -22,9 +22,17 @@ main {
      margin-right: auto;
 }
 footer {
+    
     margin-left: auto;
     margin-right: auto;
 }
+#trans {
+    background: rgba(200, 195, 195, 0.2);
+    color: #000;
+    padding: 10px;
+}
+
+
 section {
     word-break: break-all; 
     padding: 5px;   
@@ -39,9 +47,9 @@ hr {
 -webkit-margin-before: 0.5em;
 -webkit-margin-after: 0.5em;
 -webkit-margin-start: auto;
--webkit-margin-end: auto;
+-webkit-margin-end: auto; 
 border-style: inset;
-border-width: 2px;
+border-width: 1px;
 }
 
 
@@ -98,10 +106,10 @@ ul.navigation li > a{
     width:170px;
     height:85px;
     z-index:12;
-    background:transparent url(../images/overlay.png) no-repeat bottom right;
+   
     -moz-box-shadow:0px 0px 0px #000 inset;
     -webkit-box-shadow:0px 0px 0px #000 inset;
-    box-shadow:0px 1px 0px #000 inset;
+    box-shadow:0px 1px 0px #000 inset; 
     background: #FFFFFF;
     border-bottom: 1px solid;
     border-bottom-color:#000;
@@ -118,7 +126,7 @@ ul.navigation li a img{
     z-index:100;
     -moz-box-shadow:0px 0px 4px #000;
     -webkit-box-shadow:0px 0px 4px #000;
-    box-shadow:0px 0px 4px #000;
+    box-shadow:0px 0px 4px #000; 
 
 }
 ul.navigation li span.nav_wrap{
@@ -141,7 +149,7 @@ ul.navigation li span.nav_active{
     z-index:14;
     -moz-box-shadow:0px 0px 4px #000 inset;
     -webkit-box-shadow:0px 0px 4px #000 inset;
-    box-shadow:0px 0px 4px #000 inset;
+    box-shadow:0px 0px 4px #000 inset; 
     
 }
 ul.navigation li span span.nav_box_header,
@@ -153,7 +161,7 @@ ul.navigation li div.nav_box a{
     color:#000;
 
 }
-//-> Styling the box <-\\
+/* Styling the box */
 ul.navigation li span span.nav_box_header{
     color:#fff;
     font-size:24px;
@@ -168,7 +176,7 @@ ul.navigation li span span.nav_box_descr{
     font-size:10px;
     letter-spacing:1px;
 }
-=======================================
+/* ======================================= */
 ul.navigation li div.nav_box{
     display:block;
     position:absolute;

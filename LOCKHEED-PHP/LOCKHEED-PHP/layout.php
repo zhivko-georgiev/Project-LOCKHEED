@@ -1,8 +1,6 @@
 
 
  <?php 
-    $title = "The Avengers Of Softuni";
-    
-    
-    
- ?>
+ $title = "The Avengers Of Softuni";?>
+ 
+   

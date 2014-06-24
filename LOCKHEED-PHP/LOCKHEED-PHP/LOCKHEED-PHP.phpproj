@@ -16,6 +16,7 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="foot.php" />
     <Compile Include="index.php" />
     <Compile Include="layout.php" />
     <Compile Include="logo.php" />
@@ -41,6 +42,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="footer.html" />
+    <Content Include="hrbug.html" />
     <Content Include="images\nak.png" />
     <Content Include="images\transparent-nakov.png" />
     <Content Include="nakov.php" />
@@ -59,6 +61,7 @@
     <Content Include="js\bootstrap.min.js" />
     <Content Include="navigation.html" />
     <Content Include="scripts\jquery.easing.1.3.js" />
+    <Content Include="scripts\navigation.js" />
     <Content Include="styles\heroes-styles.css" />
     <Content Include="styles\styles.css" />
   </ItemGroup>
