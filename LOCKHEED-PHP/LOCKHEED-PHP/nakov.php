@@ -26,10 +26,10 @@
         </header>
         <main class="row">
 
-            <section class="col-sm-10 col-lg-offset-1">
+            <section class="col-sm-10 col-sm-offset-1">
                 <article><img src="images/nak.png" alt="Nakov" id="Nakov" class="img-responsive"></article>
             </section>
-            <section class="col-sm-10 col-lg-offset-1">
+            <section class="col-sm-10 col-sm-offset-1">
                 <article>
 			            <h2>NAKOV</h2>
 			            <h3>CHARACTER INFO</h3>
@@ -45,12 +45,10 @@
  
         </main>
 
-
-
-        <footer>
-
+         <footer class="row">
+            <section id="foot" class="col-sm-10 col-sm-offset-1">
             <?php include("foot.php") ?>
-
+            </section>
         </footer>
     </div>
     
