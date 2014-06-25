@@ -3,8 +3,8 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="content-type" content="text/php; charset=UTF-8">
-    <link rel="stylesheet" href="styles/styles.css" type="text/css" />
-    <link rel="stylesheet" href="styles/heroes-styles.css" type="text/css" />
+    <link rel="stylesheet" href="css/styles.css" type="text/css" />
+    <link rel="stylesheet" href="css/heroes-styles.css" type="text/css" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -53,7 +53,7 @@
     </div>
     
     <script src="scripts/navigation.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
 
 </body>
 </html>
