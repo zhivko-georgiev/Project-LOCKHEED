@@ -2,7 +2,6 @@
 body, section,article, div {
 	margin: 0;
 	padding: 0;
-    background-color:black;
 }
 .wrapper {
     margin-left: auto;
@@ -17,6 +16,10 @@ body, section,article, div {
 header {
     margin-left: auto;
     margin-right: auto;
+}
+nav #border-nav {
+    background-color: transparent;
+    border: none;
 }
 main {
      margin-left: auto;
