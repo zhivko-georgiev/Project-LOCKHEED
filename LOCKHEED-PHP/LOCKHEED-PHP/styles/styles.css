@@ -52,7 +52,6 @@ border-style: inset;
 border-width: 1px;
 }
 
-
 #footer {
     margin-left: auto;
     margin-right: auto;
@@ -70,6 +69,7 @@ border-width: 1px;
 ul {
     list-style-type: disc;
     list-style:  url("../images/clip.png");
+
     
 
 }
@@ -77,6 +77,7 @@ ul.navigation {
     list-style: none;
      font-family: Tahoma, Verdana , sans-serif;
     font-size: 14px;
+   
     
 
   
@@ -87,6 +88,8 @@ a:visited {
 ul.navigation a {
     text-decoration: none;
     outline:none;
+    
+
     
 }
 ul.navigation li {

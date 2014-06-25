@@ -1,8 +1,8 @@
-﻿body, div, section, p {
+﻿body, div, section, p, figure, figcaption {
     margin: 0;
     padding: 0;
 }
- body {
+#nakov {
      background-image: url(../images/transparent-nakov.png);
      background-repeat: no-repeat;
      background-attachment: fixed;
@@ -15,5 +15,38 @@ section {
 }
 #foot {
   
-    margin-top: 21px; 
+    margin-top: 21pt; 
+}
+.characters {
+    display: inline-block;
+    margin: 10pt 50pt 10pt 50pt;
+}
+.characters img {
+    cursor: pointer;
+
+}
+.characters img:hover {
+      opacity: 0.5;
+}
+.figcaption {
+    text-align: center;
+}
+.figcaption a:link {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    font-family: Arial, Verdana, Tahoma;
+    font-weight: bold;
+}
+.figcaption a:visited {
+    text-decoration: none;
+    color: #000;
+}
+.figcaption a:active {
+    background: rgba(35,91,234,0.3);
+    border: 1px solid #007ACC;
+}
+.figcaption a:hover {
+    background: rgba(35,91,234,0.3);
+    border: 1px solid #007ACC;
 }
