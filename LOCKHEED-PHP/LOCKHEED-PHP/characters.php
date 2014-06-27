@@ -34,16 +34,20 @@
                     <figure>
                     </article>
             </section>
+
             <section class="col-sm-10 col-sm-offset-1">
                 <article>
-                    <figure class="characters">
+                    <figure  class="characters">
                         <a href="nakov.php"><img src="images/nakov.png" alt="Nakov" class="img-responsive"></a>
                         <figcaption class="figcaption"><a href="nakov.php" alt="nakov">SVETLIN NAKOV</a></figccaption>
                     </figure>
-                    <figure class="characters">
+                
+                    <figure  class="characters">
                         <a href="vladi-g.php"><img src="images/vladi-g.png" alt="Vladimir" class="img-responsive"></a>
                         <figcaption class="figcaption"><a href="vladi-g.php" alt="Vladi-g">VLADIMIR GEORGIEV</a></figcaption>
                     </figure>
+                
+                    
                     <figure class="characters">
                         <a href="Teo.php"><img src="images/teo.png" alt="Teodor" class="img-responsive"></a>
                         <figcaption class="figcaption"><a href="teo.php" alt="Teodor">TEODOR KURTEV</a></figcaption>
@@ -53,7 +57,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article>
                    <figure class="characters">
-                       <a href="petya.php"><img src="images/petya.png" alt="Petya" class="img-responsive"></a>
+                       <a href="petya-g.php"><img src="images/petya.png" alt="Petya" class="img-responsive"></a>
                        <figcaption class="figcaption"><a href="petya.php" alt="Petya">PETYA GROZDARSKA</a></figcaption>
                     </figure>
                    <figure class="characters">
@@ -72,6 +76,7 @@
         <footer class="row">
             <section id="foot" class="col-sm-10 col-sm-offset-1">
                 <?php include("foot.php") ?>
+                <?php include("icons.html") ?>
             </section>
         </footer>
     </div>

@@ -4,6 +4,7 @@
 }
 #nakov {
      background-image: url(../images/transparent-nakov.png);
+     background-color: #000;
      background-repeat: no-repeat;
      background-attachment: fixed;
      background-position: top right;
@@ -49,4 +50,37 @@ section {
 .figcaption a:hover {
     background: rgba(35,91,234,0.3);
     border: 1px solid #007ACC;
+}
+#teo {
+     background-image: url(../images/transparent-teo.png);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: top right;
+}
+#vladi-g {
+     background-image: url(../images/transparent-vladi-g.png);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: top right;
+}
+#vladi-k {
+     background-image: url(../images/transparent-vladi-k.png);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: top right;
+}
+#petya-g {
+     background-image: url(../images/transparent-petya.png);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: top right;
+}
+#hristo {
+    background-image: url(../images/transparent-hristo.png);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: top right;
+}
+.center-block {
+    padding-left: 100px;
 }

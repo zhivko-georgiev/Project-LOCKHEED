@@ -5,6 +5,7 @@
     <meta http-equiv="content-type" content="text/php; charset=UTF-8">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css" type="text/css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
    
@@ -26,10 +27,10 @@
     </header>
         <main class="row">
             
-            <section class="col-sm-5 col-lg-offset-1">
+            <section class="col-md-5 col-lg-offset-1">
                 <article><img src="images/Big-Bang-Theory2.jpg" class="img-responsive" /></article>
                 </section>
-            <section class="col-sm-5 col-lg-offset-0">
+            <section class="col-md-5 col-lg-offset-0">
                 <article>
                     <img src="images/Big-Bang-Theory2.jpg" class="img-responsive"/></article>
                 </section>
@@ -45,6 +46,8 @@
         <footer>
            
              <?php  include("foot.php") ?>
+            
+            <?php include("icons.html") ?>
             
         </footer>
     </div>

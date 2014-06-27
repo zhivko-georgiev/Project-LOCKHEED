@@ -8,8 +8,8 @@ body, section,article, div {
     margin-right: auto;
 }
 #logo {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -29,6 +29,10 @@ footer {
     
     margin-left: auto;
     margin-right: auto;
+}
+.icons {
+    width: 48px;
+    float: right;
 }
 #trans {
     background: rgba(200, 195, 195, 0.2);

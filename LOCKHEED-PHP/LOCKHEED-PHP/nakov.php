@@ -48,6 +48,7 @@
          <footer class="row">
             <section id="foot" class="col-sm-10 col-sm-offset-1">
             <?php include("foot.php") ?>
+            <?php include("icons.html") ?>
             </section>
         </footer>
     </div>
