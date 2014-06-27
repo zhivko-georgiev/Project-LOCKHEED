@@ -27,7 +27,6 @@
     <Folder Include="css\" />
     <Folder Include="fonts\" />
     <Folder Include="scripts\" />
-    <Folder Include="styles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="content.html" />
