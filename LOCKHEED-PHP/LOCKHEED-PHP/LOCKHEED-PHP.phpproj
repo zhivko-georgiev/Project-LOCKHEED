@@ -22,6 +22,7 @@
     <Compile Include="logo.php" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="icons\" />
     <Folder Include="images\" />
     <Folder Include="css\" />
     <Folder Include="fonts\" />
@@ -45,6 +46,25 @@
     <Content Include="hrbug.html" />
     <Content Include="hristo.php" />
     <Content Include="icons.html" />
+    <Content Include="iicons.html" />
+    <Content Include="icons\facebook.png" />
+    <Content Include="icons\flickr.png" />
+    <Content Include="icons\google.png" />
+    <Content Include="icons\googleplus.png" />
+    <Content Include="icons\html5.png" />
+    <Content Include="icons\linkedin.png" />
+    <Content Include="icons\orkut.png" />
+    <Content Include="icons\paypal.png" />
+    <Content Include="icons\picasa.png" />
+    <Content Include="icons\pinterest.png" />
+    <Content Include="icons\rss.png" />
+    <Content Include="icons\skype.png" />
+    <Content Include="icons\Thumbs.db" />
+    <Content Include="icons\tumblr.png" />
+    <Content Include="icons\twitter.png" />
+    <Content Include="icons\vimeo.png" />
+    <Content Include="icons\yelp.png" />
+    <Content Include="icons\youtube.png" />
     <Content Include="images\characters.png" />
     <Content Include="images\f.png" />
     <Content Include="images\fin-logo-circle.png" />
@@ -93,6 +113,7 @@
     <Content Include="scripts\navigation.js" />
     <Content Include="css\heroes-styles.css" />
     <Content Include="css\styles.css" />
+    <Content Include="icons.css" />
     <Content Include="teo.php" />
     <Content Include="video.php" />
     <Content Include="vladi-g.php" />
