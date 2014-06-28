@@ -8,7 +8,7 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <?php include("layout.php") ?>
+    <?php include("includes/layout.php") ?>
 
     <title> <?php echo "$title" ?>  </title>
 
@@ -17,12 +17,12 @@
     <div class="container">
         <header>
 
-            <?php include("logo.php") ?>
+            <?php include("includes/logo.php") ?>
 
 
             <nav>
 
-                <?php include("navigation.html")?>
+                <?php include("includes/navigation.html")?>
             </nav>
         </header>
         <main class="row">
@@ -65,7 +65,7 @@
                     <div class="col-md-4">
                         <ul>
                             <li>Rosen Iliev</li>
-                            <li>oseniliev92@yahoo.com</li>
+                            <li>roseniliev92@yahoo.com</li>
                             <ul>
                     <div>
                 </article>
@@ -89,8 +89,8 @@
 
         <footer class="row">
             <section id="foot" class="col-sm-10 col-sm-offset-1">
-                <?php include("foot.php") ?>
-                <?php include("icons.html") ?>
+                <?php include("includes/foot.php") ?>
+                <?php include("includes/icons.html") ?>
             </section>
         </footer>
     </div>

@@ -4,7 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="content-type" content="text/php; charset=UTF-8">
     <link rel="stylesheet" href="css/styles.css" type="text/css" />
-    <link rel="stylesheet" href="css/heroes-styles.css" type="text/css" />
+
+    <link rel="stylesheet" href="css/gallery.css" type="text/css" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -12,7 +13,7 @@
 
     <title> <?php echo "$title" ?>  </title>
 </head>
-<body>
+<body id="characters">
     <div class="container">
         <header>
 
@@ -25,16 +26,18 @@
             </nav>
         </header>
         <main class="row">
-            <section class="col-sm-10 col-sm-offset-1">
-                
-                     <iframe width="100%" height="600px" src="http://www.youtube.com/embed/Ad4ydNIjkas" frameborder="0" allowfullscreen></iframe>
+
+     <section class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                <?php include("includes/gallery.html") ?>
+                </div>
             </section>
         </main>
 
         <footer class="row">
             <section id="foot" class="col-sm-10 col-sm-offset-1">
                 <?php include("includes/foot.php") ?>
-                 <?php include("includes/icons.html") ?>
+                <?php include("includes/icons.html") ?>
             </section>
         </footer>
     </div>
@@ -44,4 +47,3 @@
 
 </body>
 </html>
-

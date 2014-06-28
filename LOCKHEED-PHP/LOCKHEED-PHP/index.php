@@ -9,7 +9,7 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
    
-    <?php include("layout.php") ?>
+    <?php include("includes/layout.php") ?>
    
     <title> <?php echo "$title" ?>  </title>
 </head>
@@ -17,12 +17,12 @@
     <div class="container">
      <header>
 
-           <?php include("logo.php") ?>
+           <?php include("includes/logo.php") ?>
 
    
         <nav>
            
-                 <?php include("navigation.html")?>
+                 <?php include("includes/navigation.html")?>
        </nav>
     </header>
         <main class="row">
@@ -36,7 +36,7 @@
                 </section>
             <section class="row">
                 <div class="col-xs-10 col-xs-offset-1">
-                <?php include("content.html") ?>
+                <?php include("includes/content.html") ?>
                 </div>
             </section>
         </main>
@@ -45,9 +45,9 @@
         
         <footer>
            
-             <?php  include("foot.php") ?>
+             <?php  include("includes/foot.php") ?>
             
-            <?php include("icons.html") ?>
+            <?php include("includes/icons.html") ?>
             
         </footer>
     </div>

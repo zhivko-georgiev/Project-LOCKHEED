@@ -60,10 +60,13 @@ border-style: inset;
 border-width: 1px;
 }
 
+#footercontent {
+    padding-right: 50pt;
+}
 #footer {
     margin-left: auto;
     margin-right: auto;
-    padding: 10px;
+    
 }
 
 #nav {

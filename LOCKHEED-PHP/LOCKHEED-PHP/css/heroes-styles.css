@@ -4,7 +4,7 @@
 }
 #nakov {
      background-image: url(../images/transparent-nakov.png);
-     background-color: #000;
+     
      background-repeat: no-repeat;
      background-attachment: fixed;
      background-position: top right;
@@ -81,6 +81,4 @@ section {
      background-attachment: fixed;
      background-position: top right;
 }
-.center-block {
-    padding-left: 100px;
-}
+
