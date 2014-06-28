@@ -28,11 +28,11 @@
         <main class="row">
             
             <section class="col-md-5 col-lg-offset-1">
-                <article><img src="images/Big-Bang-Theory2.jpg" class="img-responsive" /></article>
+                <article><img src="images/tas2.png" class="img-responsive" /></article>
                 </section>
             <section class="col-md-5 col-lg-offset-0">
                 <article>
-                    <img src="images/Big-Bang-Theory2.jpg" class="img-responsive"/></article>
+                    <img src="images/tas.png" class="img-responsive"/></article>
                 </section>
             <section class="row">
                 <div class="col-xs-10 col-xs-offset-1">
