@@ -20,7 +20,6 @@
 
 
             <nav>
-
                 <?php include("../includes/navigation.html")?>
             </nav>
         </header>

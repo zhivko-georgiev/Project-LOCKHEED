@@ -1,5 +1,5 @@
 function changeImage(current) {
-	var imagesNumber = 5;
+	var imagesNumber = 10;
 	
 	for (i=1; i<=imagesNumber; i++) {	
 		if (i == current) {

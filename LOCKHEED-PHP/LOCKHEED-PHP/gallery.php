@@ -25,6 +25,9 @@
                 <?php include("includes/navigation.html")?>
             </nav>
         </header>
+
+
+
        <main class="row">
 
      <section class="row">
@@ -33,6 +36,11 @@
                 </div>
             </section>
         </main>
+
+
+
+
+
 
         <footer class="row">
             <section id="foot" class="col-sm-10 col-sm-offset-1">

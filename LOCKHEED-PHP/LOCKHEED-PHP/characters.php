@@ -19,9 +19,10 @@
             <?php include("includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-sm-12">
+                     <?php include("includes/navigation.html")?>
+                </div>
             </nav>
         </header>
         <main class="row">

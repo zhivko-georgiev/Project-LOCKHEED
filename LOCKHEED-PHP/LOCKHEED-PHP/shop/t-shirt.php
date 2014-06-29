@@ -11,6 +11,9 @@
     <?php include("../includes/layout.php") ?>
 
     <title> <?php echo "$title" ?>  </title>
+
+
+
 </head>
 <body id="characters">
     <div class="container">
@@ -19,21 +22,22 @@
             <?php include("../includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("../includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-sm-12">
+                     <?php include("../includes/navigation.html")?>
+                 </div>
             </nav>
         </header>
         <main class="row">
 
             <section class="col-sm-10 col-sm-offset-1">
-                <article class="col-md-7">
-                    <iframe frameborder="0" scrolling="no" width="510" height="510"
-                            src="../images/t-shirt-nakov.png" name="imgbox" id="imgbox">
+                <article class="col-md-5">
+                    <iframe frameborder="0" scrolling="no" width="290" height="290"
+                            src="../images/t-shirt-nakov.png" name="imgbox" id="imgbox" >
                         <p>iframes are not supported by your browser.</p>
                     </iframe><br />
                 </article>
-                <article class="col-md-3">
+                <article class="col-md-5">
                 <a href="../images/t-shirt-nakov.png" target="imgbox">Nakov</a><br />
                 <a href="../images/t-shirt-teo.png" target="imgbox">Teo</a><br />
                 <a href="../images/t-shirt-petya.png" target="imgbox">Petya</a><br />
@@ -55,8 +59,12 @@
 
     <script src="../scripts/navigation.js"></script>
     <script src="../scripts/bootstrap.min.js"></script>
+   
+    
+
 
 </body>
+   
 </html>
 
 

@@ -10,6 +10,23 @@
     <?php include("includes/layout.php") ?>
 
     <title> <?php echo "$title" ?>  </title>
+    <style>
+        .video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+       </style>
 </head>
 <body>
     <div class="container">
@@ -17,17 +34,20 @@
 
             <?php include("includes/logo.php") ?>
 
-
-            <nav>
-
-                <?php include("includes/navigation.html")?>
+           <section class="row">
+            <nav class="col-sm-12 col-md-offset-0 col-sm-offset-1">
+                <div class="center-block">
+                     <?php include("includes/navigation.html")?>
+                </div>
             </nav>
+           <section>
         </header>
         <main class="row">
             <section class="col-sm-10 col-sm-offset-1">
-                
+                 <div class="video-container">
                      <iframe width="100%" height="600px" src="http://www.youtube.com/embed/Ad4ydNIjkas" frameborder="0" allowfullscreen></iframe>
-            </section>
+           </div>
+                      </section>
         </main>
 
         <footer class="row">
