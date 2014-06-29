@@ -27,11 +27,12 @@
         </header>
         <main class="row">
 
-
+            <section class="col-sm-10 col-sm-offset-1">
+                 <h1 class="col-sm-6 col-sm-offset-3">THE FINAL COUNTDOWN</h1>
+            </section>
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-3">
                     <figure>
-                        <h1>The final countdown</h1>
                         <img src="../images/13.jpg" id="CharImage" alt="Avengers" class="img-responsive">
                         <figcaption class="figcaption">Най-накрая истинската подготовка започнала. Двмата велики лидери Светлин и Наков се събрали заедно с техния таен робот за обучение, кръстен Влади.</figcaption>
                         <figure>

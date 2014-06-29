@@ -25,10 +25,10 @@
                 <?php include("includes/navigation.html")?>
             </nav>
         </header>
-        <main class="row">
+       <main class="row">
 
      <section class="row">
-                <div class="col-xs-10 col-xs-offset-1">
+                <div class="col-xs-10 col-xs-offset-2">
                 <?php include("includes/gallery.html") ?>
                 </div>
             </section>

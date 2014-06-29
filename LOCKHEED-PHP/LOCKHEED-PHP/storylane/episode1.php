@@ -27,11 +27,12 @@
         </header>
         <main class="row">
 
-
+            <section class="col-sm-10 col-sm-offset-1">
+                 <h1 class="col-sm-6 col-sm-offset-3">THE EVIL RECTORS</h1>
+            </section>
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-1">
                     <figure>
-                        <h1>The evil rectors</h1>
                         <img src="../images/tu.jpg" id="CharImage" alt="Avengers" class="img-responsive">
                         <figcaption class="figcaption">В тъмен и страшен замък , нейде из дълбините на Филиповци , нощта едва сега започвала ...</figcaption>
                     <figure>

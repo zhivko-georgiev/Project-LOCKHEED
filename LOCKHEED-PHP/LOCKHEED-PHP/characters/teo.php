@@ -27,7 +27,7 @@
         <main class="row">
 
             <section class="col-sm-10 col-sm-offset-1">
-                <article><img src="images/teodor.png" alt="Teo" id="Teo" class="img-responsive"></article>
+                <article><img src="../images/teodor.png" alt="Teo" id="Teo" class="img-responsive"></article>
             </section>
             <section class="col-sm-10 col-sm-offset-1">
                 <article>

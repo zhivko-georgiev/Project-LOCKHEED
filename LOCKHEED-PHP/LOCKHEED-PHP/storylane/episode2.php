@@ -27,11 +27,12 @@
         </header>
         <main class="row">
 
-
+             <section class="col-sm-10 col-sm-offset-1">
+                 <h1 class="col-sm-6 col-sm-offset-3">THE PREPARATION</h1>
+            </section>
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-1">
                     <figure>
-                        <h1>The preparation</h1>
                         <img src="../images/Thor_Avengers.png" id="CharImage" alt="Avengers" class="img-responsive">
                         <figcaption class="figcaption">Светлин Наков бил героят, избран да поведе битката срещу злите ректори.</figcaption>
                         <figure>

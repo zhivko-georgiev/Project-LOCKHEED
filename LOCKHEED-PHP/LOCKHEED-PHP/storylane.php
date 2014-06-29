@@ -36,14 +36,14 @@
                     </figure>
                 
                     <figure  class="characters">
-                        <a href="storylane/episod2.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">THE PREPARATION</a></figccaption>
+                        <a href="storylane/episode2.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
+                        <figcaption class="figcaption"><a href="storylane/episode2.php" alt="firms">THE PREPARATION</a></figccaption>
                     </figure>
                 
                     
                      <figure  class="characters">
                         <a href="storylane/episode3.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">THE FINAL COUNTDOWN</a></figccaption>
+                        <figcaption class="figcaption"><a href="storylane/episode3.php" alt="firms">THE FINAL COUNTDOWN</a></figccaption>
                     </figure>
                 </article>
             </section>
