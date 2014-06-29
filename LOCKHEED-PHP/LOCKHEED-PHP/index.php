@@ -43,13 +43,13 @@
 
        
         
-        <footer>
+        
            
              <?php  include("includes/foot.php") ?>
             
             <?php include("includes/icons.html") ?>
             
-        </footer>
+        
     </div>
       
     <script src="scripts/navigation.js"></script>

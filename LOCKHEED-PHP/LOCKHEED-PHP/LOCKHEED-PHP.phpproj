@@ -81,6 +81,7 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.css.map" />
     <Content Include="css\bootstrap.min.css" />
+    <Content Include="includes\foter.html" />
     <Content Include="includes\gallery.html" />
     <Content Include="scripts\galleria-1.3.6.min.js" />
     <Content Include="shop\cup.php" />
@@ -91,7 +92,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="includes\footer.html" />
     <Content Include="characters.php" />
     <Content Include="includes\hrbug.html" />
     <Content Include="characters\hristo.php" />

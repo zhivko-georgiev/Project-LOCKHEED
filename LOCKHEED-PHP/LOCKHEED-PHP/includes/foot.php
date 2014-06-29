@@ -1,5 +1,5 @@
 <?php
 include ("hrbug.html");
-include ("footer.html");
+include ("foter.html");
 include ("hrbug.html");
 ?>
