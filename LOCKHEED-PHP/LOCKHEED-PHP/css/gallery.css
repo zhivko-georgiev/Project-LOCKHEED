@@ -1,93 +1,36 @@
-﻿a, 
-a:visited, 
-a:hover,  
-a:active, 
-a:focus {font-weight:normal;} /* for IE6 */
 
-ul#gallery {
-  padding:0; 
-  margin:100px auto; 
-  width:600px; 
-  height:500px; 
-  position:relative; 
-  background:#888 url(graff/g26.jpg);
-  }
-#gallery li {
-  list-style-type:none; 
-  width:64px; 
-  height:48px; 
-  float:left; 
-  z-index:100;
-  }
-#gallery li.lft {
-  float:left; 
-  clear:left;
-  }
-#gallery li.rgt {
-  float:right; 
-  clear:right;
-  }
-#gallery a {
-  position:relative; 
-  width:64px; 
-  height:48px; 
-  display:block; 
-  float:left; 
-  z-index:100; 
-  cursor:default;
-  }
-#gallery a img {
-  position:relative; 
-  width:62px; 
-  height:46px; 
-  border:1px solid #888; 
-  z-index:100;
-  }
-#gallery a:hover {
-  width:160px; 
-  height:120px; 
-  padding:108px 144px; 
-  position:absolute; 
-  left:0; 
-  top:0; 
-  z-index:20;
-  }
-#gallery a:hover img {
-  background:#eee; 
-  position:relative; 
-  width:160px; 
-  height:120px; 
-  border:0; 
-  z-index:20;
-  }
-#gallery a:active, #gallery a:focus {
-  background:transparent; 
-  width:320px; 
-  height:240px; 
-  padding:48px 64px; 
-  position:absolute; 
-  left:0; 
-  top:0; 
-  z-index:10;
-  }
-#gallery a:active img, #gallery a:focus img {
-  background:#eee; 
-  position:relative; 
-  width:320px; 
-  height:239px; 
-  border:0; 
-  z-index:10;
-  }
-/* hack for Internet Explorer */
-#gallery li.pad {
-  height:0; 
-  display:block; 
-  margin-top:-2px; 
-  width:448px; 
-  font-size:0;
-  }
-.galleria {
-    width: 100%;
-    height: 400px;
-    background: #000;
+#normal2, #normal3, #normal4, #normal5 {
+	display: none;
+}
+#gallery {
+	margin: 0 auto;
+	width: 800px;
+}
+#thumbs {
+	margin: 10px auto 10px auto;
+	text-align: center;
+	width: 800px;
+}
+#bigimages {
+	width: 770px;
+	float: left;
+}
+#thumbs img {
+	width: 130px;
+	height: 130px;
+}
+#bigimages img {
+	border: 4px solid #808080;
+	margin-top: 5px;
+	width: 750px;
+}
+#thumbs a:link, #thumbs a:visited {
+	width: 130px;
+	height: 130px;
+	border: 3px solid #000;
+    margin-bottom:10px;
+	
+}
+#thumbs a:hover {
+	border: 3px solid #0ff;
 }
