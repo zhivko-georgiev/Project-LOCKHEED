@@ -32,38 +32,21 @@
                 <article>
                     <figure  class="characters">
                         <a href="storylane/episode1.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">The Begining</a></figccaption>
+                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">THE EVIL RECTORS</a></figccaption>
                     </figure>
                 
                     <figure  class="characters">
-                        <a href="storylane/episode1.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">The Begining</a></figccaption>
+                        <a href="storylane/episod2.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
+                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">THE PREPARATION</a></figccaption>
                     </figure>
                 
                     
                      <figure  class="characters">
-                        <a href="storylane/episode1.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">The Begining</a></figccaption>
+                        <a href="storylane/episode3.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
+                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">THE FINAL COUNTDOWN</a></figccaption>
                     </figure>
                 </article>
             </section>
-            <section class="col-sm-10 col-sm-offset-1">
-                <article>
-                    <figure  class="characters">
-                        <a href="storylane/episode1.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">The Begining</a></figccaption>
-                    </figure>
-                    <figure  class="characters">
-                        <a href="storylane/episode1.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">The Begining</a></figccaption>
-                    </figure>
-                   <figure  class="characters">
-                        <a href="storylane/episode1.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">The Begining</a></figccaption>
-                    </figure>
-                </article>
-            </section>
-
         </main>
 
         <footer class="row">

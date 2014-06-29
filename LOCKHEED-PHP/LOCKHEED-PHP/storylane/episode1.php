@@ -31,6 +31,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-1">
                     <figure>
+                        <h1>The evil rectors</h1>
                         <img src="../images/tu.jpg" id="CharImage" alt="Avengers" class="img-responsive">
                         <figcaption class="figcaption">В тъмен и страшен замък , нейде из дълбините на Филиповци , нощта едва сега започвала ...</figcaption>
                     <figure>
@@ -50,7 +51,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                   <article class="col-md-6 col-md-offset-3">
                     <figure>
-                        <img src="../images/wtf.png" alt="Vladimir" class="img-responsive">
+                        <img src="../images/wtf.png" alt="" class="img-responsive">
                         <figcaption class="figcaption">Било решено , че програмистите са заплаха номер едно за заплатите на злите ректори и противодействие било задължително.Компютърните специалности били закрити, останали само обучение за така необходимите "същества" front-end-ери , които да оправят
 	безбожно грозните сайтове на университетите , чиите били под ръководството на злите ректори.</figcaption>
                     </figure>
@@ -70,7 +71,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-5">
                    <figure>
-                       <img src="../images/strike-second.png" alt="Vladislav" class="img-responsive">
+                       <img src="../images/strike-second.png" alt="" class="img-responsive">
                        <figcaption class="figcaption">По време на "Четъвртият кръстоносен поход" в посока мрачното царство в Филиповци , ярък лъч светлина разцепил облаците и заслепил младежите.."</figcaption>
                    </figure>
                </article>
