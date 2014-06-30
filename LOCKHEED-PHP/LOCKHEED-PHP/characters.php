@@ -50,7 +50,7 @@
                 
                     
                     <figure class="characters">
-                        <a href="characters/Teo.php"><img src="images/teo.png" alt="Teodor" class="img-responsive"></a>
+                        <a href="characters/teo.php"><img src="images/teo.png" alt="Teodor" class="img-responsive"></a>
                         <figcaption class="figcaption"><a href="characters/teo.php" alt="Teodor">TEODOR KURTEV</a></figcaption>
                     </figure>
                 </article>
