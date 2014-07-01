@@ -20,9 +20,10 @@
             <?php include("../includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("../includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-xs-12">
+                     <?php include("../includes/navigation.html")?>
+                </div>
             </nav>
         </header>
         <main class="row">
@@ -33,9 +34,9 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-3">
                     <figure>
-                        <img src="../images/13.jpg" id="CharImage" alt="Avengers" class="img-responsive">
+                        <img src="../images/13.jpg" id="CharImage" alt="Avengers" class="img-responsive"/>
                         <figcaption class="figcaption">Най-накрая истинската подготовка започнала. Двмата велики лидери Светлин и Наков се събрали заедно с техния таен робот за обучение, кръстен Влади.</figcaption>
-                        <figure>
+                   </figure>
                 </article>
             </section>
 
@@ -44,7 +45,7 @@
                 <article class="col-md-6 col-md-offset-3">
                     <figure>
                         <img src="../images/15.jpg" alt="Nakov" class="img-responsive">
-                        <figcaption class="figcaption">След три дни прекарни в тежки подготовки, отличени били най-добрите сред младите войни-програмисти-студенти и им били раздадени индивидуални задачи.</figccaption>
+                        <figcaption class="figcaption">След три дни прекарни в тежки подготовки, отличени били най-добрите сред младите войни-програмисти-студенти и им били раздадени индивидуални задачи.</figcaption>
                     </figure>
                 </article>
             </section>
@@ -89,9 +90,9 @@
                         <figcaption class="figcaption">Все пак като един изявен лидер и вярващ в бъдещето на младото поколение герой, Светлин Наков решил да посвети немъдрите ректори
 в мъдростта на истинското образование. От този ден нататък се носят слухове, че неговият светъл пример ще бъде последван от всички,
 но засега са само слухове.</figcaption>
-                        <p><strong>THE END</strong></p>
-                        <p><em><strong>Приликата с действителни ситуации и лица е напълно случайна! Честно бе!</strong></em></p>
-                    </figure>
+                         </figure>
+                        <div><strong>THE END</strong></div>
+                        <div><em><strong>Приликата с действителни ситуации и лица е напълно случайна! Честно бе!</strong></em></div>
                 </article>
             </section>
 

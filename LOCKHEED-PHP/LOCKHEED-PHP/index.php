@@ -23,35 +23,36 @@
         <nav class="row">
            <div class="col-xs-12">
                  <?php include("includes/navigation.html")?>
-               </div>
+          </div>
        </nav>
     </header>
         <main class="row">
             
-            <section class="col-md-5 col-lg-offset-1">
-                <article><img src="images/tas2.png" class="img-responsive" /></article>
-                </section>
-            <section class="col-md-5 col-lg-offset-0">
-                <article>
-                    <img src="images/tas.png" class="img-responsive"/></article>
-                </section>
-            <section class="row">
-                <div class="col-xs-10 col-xs-offset-1">
-                <?php include("includes/content.html") ?>
+            <div class="col-md-5 col-lg-offset-1">
+                <div>
+                    <img src="images/tas2.png" alt="" class="img-responsive" />
                 </div>
-            </section>
+            </div>
+            <div class="col-md-5 col-lg-offset-0">
+                <div>
+                    <img src="images/tas.png" alt="" class="img-responsive"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                     <?php include("includes/content.html") ?>
+                </div>
+            </div>
         </main>
 
        
-        
-        
            
              <?php  include("includes/foot.php") ?>
             
             <?php include("includes/icons.html") ?>
             
         
-    </div>
+  </div>
       
     <script src="scripts/navigation.js"></script>
     <script src="scripts/bootstrap.min.js"></script>

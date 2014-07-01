@@ -20,9 +20,10 @@
             <?php include("../includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("../includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-xs-12">
+                     <?php include("../includes/navigation.html")?>
+               </div>
             </nav>
         </header>
         <main class="row">
@@ -33,9 +34,9 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-1">
                     <figure>
-                        <img src="../images/tu.jpg" id="CharImage" alt="Avengers" class="img-responsive">
+                        <img src="../images/tu.jpg" id="CharImage" alt="Avengers" class="img-responsive"/>
                         <figcaption class="figcaption">В тъмен и страшен замък , нейде из дълбините на Филиповци , нощта едва сега започвала ...</figcaption>
-                    <figure>
+                    </figure>
                 </article>
             </section>
             
@@ -43,8 +44,8 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-2">
                     <figure>
-                        <img src="../images/tu-su-unss.png" alt="Nakov" class="img-responsive">
-                        <figcaption class="figcaption">Зли , страшни и безкомпромисни ректори били на прага да пуснат в действие плана за масова поквара над умовете на подрастващите..</figccaption>
+                        <img src="../images/tu-su-unss.png" alt="Nakov" class="img-responsive"/>
+                        <figcaption class="figcaption">Зли , страшни и безкомпромисни ректори били на прага да пуснат в действие плана за масова поквара над умовете на подрастващите..</figcaption>
                     </figure>
                  </article>
              </section>
@@ -52,7 +53,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                   <article class="col-md-6 col-md-offset-3">
                     <figure>
-                        <img src="../images/wtf.png" alt="" class="img-responsive">
+                        <img src="../images/wtf.png" alt="" class="img-responsive"/>
                         <figcaption class="figcaption">Било решено , че програмистите са заплаха номер едно за заплатите на злите ректори и противодействие било задължително.Компютърните специалности били закрити , останали само обучение за така необходимите "същества" front-end-ери , които да оправят
 	безбожно грозните сайтове на университетите , които били под ръководството на злите ректори.</figcaption>
                     </figure>
@@ -62,7 +63,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-4">
                    <figure>
-                       <img src="../images/strike.png" alt="" class="img-responsive">
+                       <img src="../images/strike.png" alt="" class="img-responsive"/>
                        <figcaption class="figcaption">Младите амбициозни хора , обединени под името "Късноставащите студенти" се вдигнали на протести незабавно , търсейки решение на
 	разрастващата се над тях тежка участ..</figcaption>
                     </figure>
@@ -72,7 +73,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-5">
                    <figure>
-                       <img src="../images/strike-second.png" alt="" class="img-responsive">
+                       <img src="../images/strike-second.png" alt="" class="img-responsive"/>
                        <figcaption class="figcaption">По време на "Четвъртият кръстоносен поход" в посока мрачното царство в Филиповци , ярък лъч светлина разцепил облаците и заслепил младежите.."</figcaption>
                    </figure>
                </article>
@@ -81,7 +82,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-6">
                   <figure>
-                        <img src="../images/6.png" alt="" class="img-responsive">
+                        <img src="../images/6.png" alt="" class="img-responsive"/>
                       <figcaption class="figcaption">След първоначалното заслепяване , те вече виждали ясно , пред очите им бил техния спасител , изпратен може би от нечия небесна сила за да ги спаси ..</figcaption>
                    </figure>
                 </article>

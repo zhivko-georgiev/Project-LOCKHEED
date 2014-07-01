@@ -20,9 +20,10 @@
             <?php include("../includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("../includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-xs-12">
+                     <?php include("../includes/navigation.html")?>
+                </div>
             </nav>
         </header>
         <main class="row">
@@ -33,9 +34,9 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-1">
                     <figure>
-                        <img src="../images/Thor_Avengers.png" id="CharImage" alt="Avengers" class="img-responsive">
+                        <img src="../images/Thor_Avengers.png" id="CharImage" alt="Avengers" class="img-responsive"/>
                         <figcaption class="figcaption">Светлин Наков бил героят, избран да поведе битката срещу злите ректори.</figcaption>
-                        <figure>
+                    </figure>
                 </article>
             </section>
 
@@ -43,9 +44,9 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-2">
                     <figure>
-                        <img src="../images/8.png" alt="Nakov" class="img-responsive">
+                        <img src="../images/8.png" alt="Nakov" class="img-responsive"/>
                         <figcaption class="figcaption">Той знаел много добре от какво има нужда на първо място- един истински
-отбор от герои има нужда от своя тайна щаб квартира !</figccaption>
+отбор от герои има нужда от своя тайна щаб квартира !</figcaption>
                     </figure>
                 </article>
             </section>
@@ -53,7 +54,7 @@
             <section class="col-sm-10 col-sm-offset-1">
                 <article class="col-md-6 col-md-offset-3">
                     <figure>
-                        <img src="../images/9.png" alt="" class="img-responsive">
+                        <img src="../images/9.png" alt="" class="img-responsive"/>
                         <figcaption class="figcaption">
                             Бързо бил повикан "Отряб за бърза сглобка на съоражения", чието мото билo "вашето местонахождение ще бъде нашата малка тайна". Те работили
                             с невъобразима скорост и само за няколко дни , шедьовърът бил готов ! 

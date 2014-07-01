@@ -31,27 +31,27 @@
                 <article>
                     <figure>
                         <img src="images/characters.png" id="CharImage" alt="Avengers" class="img-responsive">
-                        <figcaption class="figcaption"><h1> THE AVENGERS OF SOFTUNI</h1></figcaption>
-                    <figure>
-                    </article>
+                        <figcaption class="figcaption"><h2>THE AVENGERS OF SOFTUNI</h2></figcaption>
+                    </figure>
+              </article>
             </section>
 
             <section class="col-sm-10 col-sm-offset-1">
                 <article>
                     <figure  class="characters">
                         <a href="characters/nakov.php"><img src="images/nakov.png" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="characters/nakov.php" alt="nakov">SVETLIN NAKOV</a></figccaption>
+                        <figcaption class="figcaption"><a href="characters/nakov.php">SVETLIN NAKOV</a></figcaption>
                     </figure>
                 
                     <figure  class="characters">
                         <a href="characters/vladi-g.php"><img src="images/vladi-g.png" alt="Vladimir" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="characters/vladi-g.php" alt="Vladi-g">VLADIMIR GEORGIEV</a></figcaption>
+                        <figcaption class="figcaption"><a href="characters/vladi-g.php">VLADIMIR GEORGIEV</a></figcaption>
                     </figure>
                 
                     
                     <figure class="characters">
                         <a href="characters/teo.php"><img src="images/teo.png" alt="Teodor" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="characters/teo.php" alt="Teodor">TEODOR KURTEV</a></figcaption>
+                        <figcaption class="figcaption"><a href="characters/teo.php">TEODOR KURTEV</a></figcaption>
                     </figure>
                 </article>
             </section>
@@ -59,15 +59,15 @@
                 <article>
                    <figure class="characters">
                        <a href="characters/petya-g.php"><img src="images/petya.png" alt="Petya" class="img-responsive"></a>
-                       <figcaption class="figcaption"><a href="characters/petya-g.php" alt="Petya">PETYA GROZDARSKA</a></figcaption>
+                       <figcaption class="figcaption"><a href="characters/petya-g.php">PETYA GROZDARSKA</a></figcaption>
                     </figure>
                    <figure class="characters">
                        <a href="characters/vladi-k.php"><img src="images/vladi-k.png" alt="Vladislav" class="img-responsive"></a>
-                       <figcaption class="figcaption"><a href="characters/vladi-k.php" alt="Vladislav">VLADISLAV KARAMFILOV</figcaption>
-                       </figure>
+                       <figcaption class="figcaption"><a href="characters/vladi-k.php">VLADISLAV KARAMFILOV</a></figcaption>
+                  </figure>
                   <figure class="characters">
                       <a href="characters/hristo.php"><img src="images/hristo.png" alt="Hristor" class="img-responsive"></a>
-                      <figcaption class="figcaption"><a href="characters/hristo.php" alt="Hristo">HRISTO TENCHEV</figcaption>
+                      <figcaption class="figcaption"><a href="characters/hristo.php">HRISTO TENCHEV</a></figcaption>
                    </figure>
                 </article>
             </section>

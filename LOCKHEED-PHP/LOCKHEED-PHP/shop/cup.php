@@ -33,7 +33,7 @@
                     <p>iframes are not supported by your browser.</p>
                 </iframe><br />
                  </article>
-                </article class="col-md-5">
+                <article class="col-md-5">
                       <a href="../images/cup-nakov.png" target="imgbox">Nakov</a><br />
                       <a href="../images/cup-teo.png" target="imgbox">Teo</a><br />
                       <a href="../images/cup-petya.png" target="imgbox">Petya</a><br />

@@ -30,17 +30,12 @@
 
        <main class="row">
 
-     <section class="row">
+            <section class="row">
                 <div class="col-xs-10 col-xs-offset-2">
-                <?php include("includes/gallery.html") ?>
+                     <?php include("includes/gallery.html") ?>
                 </div>
             </section>
         </main>
-
-
-
-
-
 
         <footer class="row">
             <section id="foot" class="col-sm-10 col-sm-offset-1">

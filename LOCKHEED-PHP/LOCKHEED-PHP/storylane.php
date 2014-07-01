@@ -19,9 +19,10 @@
             <?php include("includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-xs-12">
+                     <?php include("includes/navigation.html")?>
+                </div>
             </nav>
         </header>
         <main class="row">
@@ -29,21 +30,22 @@
             
 
             <section class="col-sm-10 col-sm-offset-1">
-                <article>
+                <article class="col-md-4">
                     <figure  class="characters">
-                        <a href="storylane/episode1.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode1.php" alt="firms">THE EVIL RECTORS</a></figccaption>
+                        <a href="storylane/episode1.php"><img src="images/tu.jpg" alt="Nakov" class="img-responsive"></a>
+                        <figcaption class="figcaption"><a href="storylane/episode1.php">THE EVIL RECTORS</a></figcaption>
                     </figure>
-                
+                    </article>
+                <article class="col-md-4">
                     <figure  class="characters">
-                        <a href="storylane/episode2.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode2.php" alt="firms">THE PREPARATION</a></figccaption>
+                        <a href="storylane/episode2.php"><img src="images/Thor_Avengers.png" alt="Nakov" class="img-responsive"></a>
+                        <figcaption class="figcaption"><a href="storylane/episode2.php">THE PREPARATION</a></figcaption>
                     </figure>
-                
-                    
+                </article>
+                    <article class="col-md-4">
                      <figure  class="characters">
-                        <a href="storylane/episode3.php"><img src="images/story2.jpg" width="170" height="170" alt="Nakov" class="img-responsive"></a>
-                        <figcaption class="figcaption"><a href="storylane/episode3.php" alt="firms">THE FINAL COUNTDOWN</a></figccaption>
+                        <a href="storylane/episode3.php"><img src="images/selfie.jpg"  alt="Nakov" class="img-responsive"></a>
+                        <figcaption class="figcaption"><a href="storylane/episode3.php">THE FINAL COUNTDOWN</a></figcaption>
                     </figure>
                 </article>
             </section>

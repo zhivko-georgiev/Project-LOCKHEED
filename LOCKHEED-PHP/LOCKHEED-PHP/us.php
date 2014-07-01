@@ -20,54 +20,55 @@
             <?php include("includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-xs-12">
+                     <?php include("includes/navigation.html")?>
+                <div>
             </nav>
         </header>
         <main class="row">
             <section class="col-sm-10 col-sm-offset-1">
              <article>
                 <h1 class="col-md-10 col-md-offset-1">TEAM "LOCKHEED"</h1>
-                </article>
+              </article>
             </section>
             <section class="col-sm-10 col-sm-offset-1">
                 <article >
                     <div class ="col-md-6 col-md-offset-1">
-                        <img src="images/zhivko.png" id="zhivko" alt="zhivko" class="img-responsive">
+                        <img src="images/zhivko.png" id="zhivko" alt="zhivko" class="img-responsive"/>
                     </div>
                    <div class="col-md-4">
                             <ul>
                                 <li>Zhivko Georgiev</li>
                                 <li>zdgeorgiev@abv.bg</li>
-                            <ul>
-                  <div>
+                            </ul>
+                   </div>
                 </article>
             </section>
             <section class="col-sm-10 col-sm-offset-1">
                 <article>
                     <div class="col-md-6 col-md-offset-1">
-                        <img src="images/daniel.png" id="daniel" alt="daniel" class="img-responsive">
+                        <img src="images/daniel.png" id="daniel" alt="daniel" class="img-responsive"/>
                     </div>
                     <div class="col-md-4">
                         <ul>
                             <li>Daniel Hadzhiev</li>
                             <li>insanee8@gmail.com</li>
-                            <ul>
-                    <div>
+                        </ul>
+                    </div>
                 </article>
             </section>
             <section class="col-sm-10 col-sm-offset-1">
                 <article>
                     <div class="col-md-6 col-md-offset-1">
-                        <img src="images/rosen.png" id="rosen" alt="rosen" class="img-responsive">
+                        <img src="images/rosen.png" id="rosen" alt="rosen" class="img-responsive"/>
                     </div>
                     <div class="col-md-4">
                         <ul>
                             <li>Rosen Iliev</li>
                             <li>roseniliev92@yahoo.com</li>
-                            <ul>
-                    <div>
+                         </ul>
+                    </div>
                 </article>
             </section>
             <section class="col-sm-10 col-sm-offset-1">
@@ -79,8 +80,8 @@
                         <ul>
                             <li>Silvia Slavcheva</li>
                             <li>silvia.b.slavcheva@gmail.com</li>
-                            <ul>
-                  <div>
+                        </ul>
+                  </div>
                 </article>
             </section>
            
