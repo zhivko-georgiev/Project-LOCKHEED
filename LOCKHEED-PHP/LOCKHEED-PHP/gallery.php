@@ -20,9 +20,10 @@
             <?php include("includes/logo.php") ?>
 
 
-            <nav>
-
-                <?php include("includes/navigation.html")?>
+            <nav class="row">
+                <div class="col-xs-12">
+                    <?php include("includes/navigation.html")?>
+                </div>
             </nav>
         </header>
 
@@ -31,7 +32,7 @@
        <main class="row">
 
             <section class="row">
-                <div class="col-xs-10 col-xs-offset-2">
+                <div class="col-xs-10 col-xs-offset-1">
                      <?php include("includes/gallery.html") ?>
                 </div>
             </section>

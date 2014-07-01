@@ -4,29 +4,30 @@
 }
 #gallery {
 	margin: 0 auto;
-	width: 800px;
+	width: 100%;
 }
 #thumbs {
 	margin: 10px auto 10px auto;
-	text-align: center;
-	width: 800px;
+
+	width: 95%;
 }
 #bigimages {
-	width: 770px;
+	width: 95%;
 	float: left;
+    text-align: center;
 }
 #thumbs img {
-	width: 130px;
-	height: 130px;
+	width: 10%;
+	height: 10%;
 }
 #bigimages img {
 	border: 4px solid #808080;
 	margin-top: 5px;
-	width: 750px;
+	width: 80%;
 }
 #thumbs a:link, #thumbs a:visited {
-	width: 130px;
-	height: 130px;
+	width: 20%;
+	height: 20%;
 	border: 3px solid #000;
     margin-bottom:10px;
 	
